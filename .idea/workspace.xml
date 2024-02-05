@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars/findOdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar/chp1/Class.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar/chp2/scope.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar/chp2/speread&amp;rest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar/chp2/논리연산자.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar/chp2/비구조화(구조분해).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar/chp2/삼항연산자.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar/chp2/햠수파라미터.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grammar/chp2/향상된조건문.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewar/Maskify.js" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/Maskify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar/arr.js" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/chp1/arr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar/forEachEx.js" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/chp1/forEachEx.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar/object.js" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/chp1/object.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grammar/prototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/chp1/prototype.js" afterDir="false" />
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="todo : codewar6">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/Maskify.js" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/Js/Maskify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/findOdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/Js/findOdd.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +18,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Hyeonqz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="20497353-8c82-4340-920e-3ae15582c863" />
+        <option name="url" value="https://github.com/Hyeonqz/Modern-JS.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2bnD5RIILZpidzoefsLaernnC10" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,7 +46,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Node.js.Async.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.Class.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.asyncawait.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.promise.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.prototype.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.scope.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.speread&amp;rest.js.executor&quot;: &quot;Run&quot;,
@@ -57,28 +62,36 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/qrbank11/Desktop/down/modern_js&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codewars/Js" />
       <recent name="$PROJECT_DIR$/grammar/chp1" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.scope.js">
-    <configuration name="비구조화(구조분해).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/비구조화(구조분해).js" working-dir="$PROJECT_DIR$/grammar/chp2">
-      <method v="2" />
-    </configuration>
-    <configuration name="햠수파라미터.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/햠수파라미터.js" working-dir="$PROJECT_DIR$/grammar/chp2">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.asyncawait.js">
     <configuration name="향상된조건문.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/향상된조건문.js" working-dir="$PROJECT_DIR$/grammar/chp2">
+      <method v="2" />
+    </configuration>
+    <configuration name="asyncawait.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp3/asyncawait.js" working-dir="$PROJECT_DIR$/grammar/chp3">
+      <method v="2" />
+    </configuration>
+    <configuration name="비동기basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp3/비동기basic.js" working-dir="$PROJECT_DIR$/grammar/chp3">
+      <method v="2" />
+    </configuration>
+    <configuration name="promise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp3/promise.js" working-dir="$PROJECT_DIR$/grammar/chp3">
       <method v="2" />
     </configuration>
     <configuration name="scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/scope.js" working-dir="$PROJECT_DIR$/grammar/chp2">
@@ -89,12 +102,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.asyncawait.js" />
+        <item itemvalue="Node.js.promise.js" />
+        <item itemvalue="Node.js.비동기basic.js" />
         <item itemvalue="Node.js.scope.js" />
         <item itemvalue="Node.js.speread&amp;rest.js" />
-        <item itemvalue="Node.js.비구조화(구조분해).js" />
-        <item itemvalue="Node.js.햠수파라미터.js" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -106,6 +127,9 @@
       <updated>1706841765865</updated>
       <workItem from="1706841767155" duration="10009000" />
       <workItem from="1707096661282" duration="127000" />
+      <workItem from="1707096811692" duration="7663000" />
+      <workItem from="1707118612552" duration="9000" />
+      <workItem from="1707118632970" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -115,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706841869743</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="todo : js기초">
+      <option name="closed" value="true" />
+      <created>1707115788267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707115788267</updated>
+    </task>
+    <task id="LOCAL-00003" summary="todo : codewar6">
+      <option name="closed" value="true" />
+      <created>1707118935028</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707118935028</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="todo : js기초" />
+    <MESSAGE value="todo : codewar6" />
+    <option name="LAST_COMMIT_MESSAGE" value="todo : codewar6" />
   </component>
 </project>
