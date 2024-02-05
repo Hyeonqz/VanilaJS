@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="todo : codewar6">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/Maskify.js" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/Js/Maskify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codewars/findOdd.js" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/Js/findOdd.js" afterDir="false" />
-    </list>
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="docs : 파일정리" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +124,7 @@
       <workItem from="1707096661282" duration="127000" />
       <workItem from="1707096811692" duration="7663000" />
       <workItem from="1707118612552" duration="9000" />
-      <workItem from="1707118632970" duration="316000" />
+      <workItem from="1707118632970" duration="443000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -155,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707118935028</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="docs : 파일정리">
+      <option name="closed" value="true" />
+      <created>1707119031397</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707119031397</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +179,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="todo : js기초" />
     <MESSAGE value="todo : codewar6" />
-    <option name="LAST_COMMIT_MESSAGE" value="todo : codewar6" />
+    <MESSAGE value="docs : 파일정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs : 파일정리" />
   </component>
 </project>
