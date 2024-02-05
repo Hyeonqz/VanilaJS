@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/findOdd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar/chp1/Class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar/chp2/scope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar/chp2/speread&amp;rest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar/chp2/논리연산자.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar/chp2/비구조화(구조분해).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar/chp2/삼항연산자.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar/chp2/햠수파라미터.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grammar/chp2/향상된조건문.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewar/Maskify.js" beforeDir="false" afterPath="$PROJECT_DIR$/codewars/Maskify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar/arr.js" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/chp1/arr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar/forEachEx.js" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/chp1/forEachEx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar/object.js" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/chp1/object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grammar/prototype.js" beforeDir="false" afterPath="$PROJECT_DIR$/grammar/chp1/prototype.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2bnD5RIILZpidzoefsLaernnC10" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.Class.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.prototype.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.scope.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.speread&amp;rest.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.논리연산자.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.비구조화(구조분해).js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.삼항연산자.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.햠수파라미터.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.향상된조건문.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grammar/chp1" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.scope.js">
+    <configuration name="비구조화(구조분해).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/비구조화(구조분해).js" working-dir="$PROJECT_DIR$/grammar/chp2">
+      <method v="2" />
+    </configuration>
+    <configuration name="햠수파라미터.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/햠수파라미터.js" working-dir="$PROJECT_DIR$/grammar/chp2">
+      <method v="2" />
+    </configuration>
+    <configuration name="향상된조건문.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/향상된조건문.js" working-dir="$PROJECT_DIR$/grammar/chp2">
+      <method v="2" />
+    </configuration>
+    <configuration name="scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/scope.js" working-dir="$PROJECT_DIR$/grammar/chp2">
+      <method v="2" />
+    </configuration>
+    <configuration name="speread&amp;rest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/speread&amp;rest.js" working-dir="$PROJECT_DIR$/grammar/chp2">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.scope.js" />
+        <item itemvalue="Node.js.speread&amp;rest.js" />
+        <item itemvalue="Node.js.비구조화(구조분해).js" />
+        <item itemvalue="Node.js.햠수파라미터.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="" />
+      <created>1706841765865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706841765865</updated>
+      <workItem from="1706841767155" duration="10009000" />
+      <workItem from="1707096661282" duration="127000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1706841869743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706841869743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
