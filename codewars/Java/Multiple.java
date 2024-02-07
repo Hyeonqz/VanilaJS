@@ -23,7 +23,7 @@ public class Multiple {
 // 숫자가 3 과 5 의 배수인 경우 한 번만 계산하세요 .
 
 /*
-//Ex2
+//Ex2.js
 return IntStream.range(0,Number
         .filter(n -> n % 3 == 0 || n % 5 == 0))
         .sum();*/
