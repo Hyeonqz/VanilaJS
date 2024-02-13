@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script>
+    let message = "hello";
+    let phrase = message;
+
+    let user = {
+        name :'john'
+    };
+
+    let admin = user;
+    admin.name = 'admin';
+    alert(user.name);
+
+    let a = {};
+    let b = a;
+
+    //alert(a == b);
+    //alert(a === a);
+
+    let clone = {} //새로운 빈 객체
+
+    for(let key in user) {
+        clone[key] = user[key];
+    }
+
+    clone.name = "hi";
+    alert(user.name);
+
+    let permission1 = {
+        canView: true
+    };
+
+    let permission2 = {
+        canEdit: true
+    };
+
+    //per1과 per2의 프로퍼티(=변수)를 user로 복사합니다.
+    Object.assign(user, permission1,permission2);
+
+    alert(user.canView);
+
+    //목표 객체에 동일한 이름을 가진 프로퍼티가 있는 경우엔 기존 값이 덮어 쒸어진다
+    Object.assign(user, {name:"jin"});
+    alert(user.name);
+
+    // Object.assign을 사용하면 반복문 없이도 간단하게 객체 복사 가능
+    let clone1 = Object.assign({},user);
+
+    let userA = {
+        name : 'jin',
+        sizes: {
+            height: 180,
+            width: 100
+        }
+    };
+
+
+</script>
+<body>
+
+</body>
+</html>
