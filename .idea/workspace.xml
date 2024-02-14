@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="docs : 파일정리" />
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="docs : 파일정리">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modern/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/Modern/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modern/객체/객체를원시형으로변환.Js" beforeDir="false" afterPath="$PROJECT_DIR$/Modern/객체/객체를원시형으로변환.Js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +30,9 @@
         <option name="url" value="https://github.com/Hyeonqz/Modern-JS.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -57,7 +64,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/qrbank11/Desktop/down/modern_js&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/qrbank11/Desktop/dev/modern_js&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -125,6 +132,9 @@
       <workItem from="1707096811692" duration="7663000" />
       <workItem from="1707118612552" duration="9000" />
       <workItem from="1707118632970" duration="443000" />
+      <workItem from="1707876684937" duration="28000" />
+      <workItem from="1707877225675" duration="75000" />
+      <workItem from="1707877413997" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
