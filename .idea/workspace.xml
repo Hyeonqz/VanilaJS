@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="Todo : codewars 6kyu">
-      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/Date객체.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/Iterable객체.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/JSON과메소드.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/Object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/구조분해할당.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/맵과셋.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/위크맵과위크셋.js" afterDir="false" />
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="Todo : 자료구조6~12">
+      <change afterPath="$PROJECT_DIR$/codewars/Java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/Js/solution.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modern/객체/참조에의한객체복사.html" beforeDir="false" afterPath="$PROJECT_DIR$/Modern/객체/참조에의한객체복사.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +65,7 @@
     "Node.js.promise.js.executor": "Run",
     "Node.js.prototype.js.executor": "Run",
     "Node.js.scope.js.executor": "Run",
+    "Node.js.solution.js.executor": "Run",
     "Node.js.speread&rest.js.executor": "Run",
     "Node.js.구조분해할당.js.executor": "Run",
     "Node.js.논리연산자.js.executor": "Run",
@@ -119,7 +114,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.JSON과메소드.js">
+  <component name="RunManager" selected="Node.js.solution.js">
     <configuration name="Date객체.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/Date객체.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
@@ -127,9 +122,6 @@
       <method v="2" />
     </configuration>
     <configuration name="구조분해할당.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/구조분해할당.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
-      <method v="2" />
-    </configuration>
-    <configuration name="맵과셋.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/맵과셋.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
     <configuration name="위크맵과위크셋.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/위크맵과위크셋.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
@@ -144,13 +136,16 @@
     <configuration name="배열과메서드.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/배열과메서드.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
+    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/codewars/Js/solution.js" working-dir="$PROJECT_DIR$/codewars/Js">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.solution.js" />
         <item itemvalue="Node.js.JSON과메소드.js" />
         <item itemvalue="Node.js.Date객체.js" />
         <item itemvalue="Node.js.구조분해할당.js" />
         <item itemvalue="Node.js.위크맵과위크셋.js" />
-        <item itemvalue="Node.js.맵과셋.js" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +173,7 @@
       <workItem from="1707877225675" duration="75000" />
       <workItem from="1707877413997" duration="110000" />
       <workItem from="1707877647298" duration="12633000" />
-      <workItem from="1707960074593" duration="11087000" />
+      <workItem from="1707960074593" duration="14904000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -228,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707894081761</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Todo : 자료구조6~12">
+      <option name="closed" value="true" />
+      <created>1707974387927</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707974387927</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +255,7 @@
     <MESSAGE value="docs : 파일정리" />
     <MESSAGE value="Todo : 자료구조와 자료형 1~6" />
     <MESSAGE value="Todo : codewars 6kyu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Todo : codewars 6kyu" />
+    <MESSAGE value="Todo : 자료구조6~12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todo : 자료구조6~12" />
   </component>
 </project>
