@@ -4,15 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="docs : 파일정리">
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="Todo : codewars 6kyu">
+      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/Date객체.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/Iterable객체.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/JSON과메소드.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/Object.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/구조분해할당.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/맵과셋.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/자료구조와자료형/위크맵과위크셋.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modern/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/Modern/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modern/객체/객체를원시형으로변환.Js" beforeDir="false" afterPath="$PROJECT_DIR$/Modern/객체/객체를원시형으로변환.Js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modern/객체/참조에의한객체복사.html" beforeDir="false" afterPath="$PROJECT_DIR$/Modern/객체/참조에의한객체복사.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,69 +59,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.Async.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.Class.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.asyncawait.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.promise.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.prototype.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.scope.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.speread&amp;rest.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.논리연산자.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.비구조화(구조분해).js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.삼항연산자.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.햠수파라미터.js.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.향상된조건문.js.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/qrbank11/Desktop/dev/modern_js&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.Async.js.executor": "Run",
+    "Node.js.Class.js.executor": "Run",
+    "Node.js.Date객체.js.executor": "Run",
+    "Node.js.Deadfish.js.executor": "Run",
+    "Node.js.Iterable객체.js.executor": "Run",
+    "Node.js.JSON과메소드.js.executor": "Run",
+    "Node.js.asyncawait.js.executor": "Run",
+    "Node.js.promise.js.executor": "Run",
+    "Node.js.prototype.js.executor": "Run",
+    "Node.js.scope.js.executor": "Run",
+    "Node.js.speread&rest.js.executor": "Run",
+    "Node.js.구조분해할당.js.executor": "Run",
+    "Node.js.논리연산자.js.executor": "Run",
+    "Node.js.맵과셋.js.executor": "Run",
+    "Node.js.문자형.js.executor": "Run",
+    "Node.js.배열.js.executor": "Run",
+    "Node.js.배열과메서드.js.executor": "Run",
+    "Node.js.비구조화(구조분해).js.executor": "Run",
+    "Node.js.삼항연산자.js.executor": "Run",
+    "Node.js.숫자형.js.executor": "Run",
+    "Node.js.원시값의메소드.js.executor": "Run",
+    "Node.js.위크맵과위크셋.js.executor": "Run",
+    "Node.js.햠수파라미터.js.executor": "Run",
+    "Node.js.향상된조건문.js.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/qrbank11/Desktop/dev/modern_js/codewars/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codewars/Java" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/codewars/Js" />
       <recent name="$PROJECT_DIR$/grammar/chp1" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.asyncawait.js">
-    <configuration name="향상된조건문.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/향상된조건문.js" working-dir="$PROJECT_DIR$/grammar/chp2">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.JSON과메소드.js">
+    <configuration name="Date객체.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/Date객체.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
-    <configuration name="asyncawait.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp3/asyncawait.js" working-dir="$PROJECT_DIR$/grammar/chp3">
+    <configuration name="JSON과메소드.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/JSON과메소드.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
-    <configuration name="비동기basic.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp3/비동기basic.js" working-dir="$PROJECT_DIR$/grammar/chp3">
+    <configuration name="구조분해할당.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/구조분해할당.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
-    <configuration name="promise.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp3/promise.js" working-dir="$PROJECT_DIR$/grammar/chp3">
+    <configuration name="맵과셋.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/맵과셋.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
-    <configuration name="scope.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/scope.js" working-dir="$PROJECT_DIR$/grammar/chp2">
+    <configuration name="위크맵과위크셋.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/위크맵과위크셋.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
-    <configuration name="speread&amp;rest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/grammar/chp2/speread&amp;rest.js" working-dir="$PROJECT_DIR$/grammar/chp2">
+    <configuration name="문자형.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/문자형.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
+      <method v="2" />
+    </configuration>
+    <configuration name="배열.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/배열.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
+      <method v="2" />
+    </configuration>
+    <configuration name="배열과메서드.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/배열과메서드.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.asyncawait.js" />
-        <item itemvalue="Node.js.promise.js" />
-        <item itemvalue="Node.js.비동기basic.js" />
-        <item itemvalue="Node.js.scope.js" />
-        <item itemvalue="Node.js.speread&amp;rest.js" />
+        <item itemvalue="Node.js.JSON과메소드.js" />
+        <item itemvalue="Node.js.Date객체.js" />
+        <item itemvalue="Node.js.구조분해할당.js" />
+        <item itemvalue="Node.js.위크맵과위크셋.js" />
+        <item itemvalue="Node.js.맵과셋.js" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +177,8 @@
       <workItem from="1707876684937" duration="28000" />
       <workItem from="1707877225675" duration="75000" />
       <workItem from="1707877413997" duration="110000" />
+      <workItem from="1707877647298" duration="12633000" />
+      <workItem from="1707960074593" duration="11087000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -168,7 +212,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707119031397</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Todo : 자료구조와 자료형 1~6">
+      <option name="closed" value="true" />
+      <created>1707891483320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707891483320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Todo : codewars 6kyu">
+      <option name="closed" value="true" />
+      <created>1707894081761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707894081761</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +250,8 @@
     <MESSAGE value="todo : js기초" />
     <MESSAGE value="todo : codewar6" />
     <MESSAGE value="docs : 파일정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs : 파일정리" />
+    <MESSAGE value="Todo : 자료구조와 자료형 1~6" />
+    <MESSAGE value="Todo : codewars 6kyu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todo : codewars 6kyu" />
   </component>
 </project>
