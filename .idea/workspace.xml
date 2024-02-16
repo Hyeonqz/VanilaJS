@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="Todo : 자료구조6~12">
-      <change afterPath="$PROJECT_DIR$/codewars/Java/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars/Js/solution.js" afterDir="false" />
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="Todo : codewars 6kyu">
+      <change afterPath="$PROJECT_DIR$/Modern/함수심화학습/객체함수기명함수표현식.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/함수심화학습/나머지매개변수전개구문.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/함수심화학습/변수의유효범위와클로저.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/함수심화학습/재귀와스택.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modern/함수심화학습/전역객체.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,17 +70,22 @@
     "Node.js.scope.js.executor": "Run",
     "Node.js.solution.js.executor": "Run",
     "Node.js.speread&rest.js.executor": "Run",
+    "Node.js.객체함수기명함수표현식.js.executor": "Run",
     "Node.js.구조분해할당.js.executor": "Run",
+    "Node.js.나머지매개변수전개구만.js.executor": "Run",
     "Node.js.논리연산자.js.executor": "Run",
     "Node.js.맵과셋.js.executor": "Run",
     "Node.js.문자형.js.executor": "Run",
     "Node.js.배열.js.executor": "Run",
     "Node.js.배열과메서드.js.executor": "Run",
+    "Node.js.변수의유효범위와클로저.js.executor": "Run",
     "Node.js.비구조화(구조분해).js.executor": "Run",
     "Node.js.삼항연산자.js.executor": "Run",
     "Node.js.숫자형.js.executor": "Run",
     "Node.js.원시값의메소드.js.executor": "Run",
     "Node.js.위크맵과위크셋.js.executor": "Run",
+    "Node.js.재귀와스택.js.executor": "Run",
+    "Node.js.전역객체.js.executor": "Run",
     "Node.js.햠수파라미터.js.executor": "Run",
     "Node.js.향상된조건문.js.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -114,14 +122,20 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.solution.js">
-    <configuration name="Date객체.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/Date객체.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
+  <component name="RunManager" selected="Node.js.객체함수기명함수표현식.js">
+    <configuration name="나머지매개변수전개구문.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/함수심화학습/나머지매개변수전개구문.js" working-dir="$PROJECT_DIR$/Modern/함수심화학습">
       <method v="2" />
     </configuration>
-    <configuration name="JSON과메소드.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/JSON과메소드.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
+    <configuration name="재귀와스택.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/함수심화학습/재귀와스택.js" working-dir="$PROJECT_DIR$/Modern/함수심화학습">
       <method v="2" />
     </configuration>
-    <configuration name="구조분해할당.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/구조분해할당.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
+    <configuration name="변수의유효범위와클로저.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/함수심화학습/변수의유효범위와클로저.js" working-dir="$PROJECT_DIR$/Modern/함수심화학습">
+      <method v="2" />
+    </configuration>
+    <configuration name="전역객체.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/함수심화학습/전역객체.js" working-dir="$PROJECT_DIR$/Modern/함수심화학습">
+      <method v="2" />
+    </configuration>
+    <configuration name="객체함수기명함수표현식.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/함수심화학습/객체함수기명함수표현식.js" working-dir="$PROJECT_DIR$/Modern/함수심화학습">
       <method v="2" />
     </configuration>
     <configuration name="위크맵과위크셋.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/위크맵과위크셋.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
@@ -136,16 +150,13 @@
     <configuration name="배열과메서드.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/자료구조와자료형/배열과메서드.js" working-dir="$PROJECT_DIR$/Modern/자료구조와자료형">
       <method v="2" />
     </configuration>
-    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/codewars/Js/solution.js" working-dir="$PROJECT_DIR$/codewars/Js">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.solution.js" />
-        <item itemvalue="Node.js.JSON과메소드.js" />
-        <item itemvalue="Node.js.Date객체.js" />
-        <item itemvalue="Node.js.구조분해할당.js" />
-        <item itemvalue="Node.js.위크맵과위크셋.js" />
+        <item itemvalue="Node.js.객체함수기명함수표현식.js" />
+        <item itemvalue="Node.js.전역객체.js" />
+        <item itemvalue="Node.js.변수의유효범위와클로저.js" />
+        <item itemvalue="Node.js.나머지매개변수전개구문.js" />
+        <item itemvalue="Node.js.재귀와스택.js" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +184,8 @@
       <workItem from="1707877225675" duration="75000" />
       <workItem from="1707877413997" duration="110000" />
       <workItem from="1707877647298" duration="12633000" />
-      <workItem from="1707960074593" duration="14904000" />
+      <workItem from="1707960074593" duration="15453000" />
+      <workItem from="1708048273081" duration="7158000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -231,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707974387927</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Todo : codewars 6kyu">
+      <option name="closed" value="true" />
+      <created>1707979408295</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707979408295</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,8 +274,8 @@
     <MESSAGE value="todo : codewar6" />
     <MESSAGE value="docs : 파일정리" />
     <MESSAGE value="Todo : 자료구조와 자료형 1~6" />
-    <MESSAGE value="Todo : codewars 6kyu" />
     <MESSAGE value="Todo : 자료구조6~12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Todo : 자료구조6~12" />
+    <MESSAGE value="Todo : codewars 6kyu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todo : codewars 6kyu" />
   </component>
 </project>
