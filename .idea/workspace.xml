@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="Todo : codewars 6kyu">
-      <change afterPath="$PROJECT_DIR$/Modern/함수심화학습/newFunction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modern/함수심화학습/setTimeoutsetInterval.js" afterDir="false" />
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="Todo : 함수심화 7,8">
+      <change afterPath="$PROJECT_DIR$/codewars/Java/BitCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/Js/BitCounting.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +189,7 @@
       <workItem from="1707877647298" duration="12633000" />
       <workItem from="1707960074593" duration="15453000" />
       <workItem from="1708048273081" duration="9770000" />
-      <workItem from="1708312034293" duration="3597000" />
+      <workItem from="1708312034293" duration="4842000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708064001702</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Todo : 함수심화 7,8">
+      <option name="closed" value="true" />
+      <created>1708322814422</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708322814422</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,6 +305,7 @@
     <MESSAGE value="Todo : 자료구조6~12" />
     <MESSAGE value="Todo : 함수심화 1~6" />
     <MESSAGE value="Todo : codewars 6kyu" />
-    <option name="LAST_COMMIT_MESSAGE" value="Todo : codewars 6kyu" />
+    <MESSAGE value="Todo : 함수심화 7,8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Todo : 함수심화 7,8" />
   </component>
 </project>
