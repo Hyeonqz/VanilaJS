@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="Todo : 함수심화 7,8">
-      <change afterPath="$PROJECT_DIR$/codewars/Java/BitCounting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codewars/Js/BitCounting.js" afterDir="false" />
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="fix : codeWars 6kyu">
+      <change afterPath="$PROJECT_DIR$/codewars/Java/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/Js/Max.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Node.js.Deadfish.js.executor": "Run",
     "Node.js.Iterable객체.js.executor": "Run",
     "Node.js.JSON과메소드.js.executor": "Run",
+    "Node.js.Max.js.executor": "Run",
     "Node.js.asyncawait.js.executor": "Run",
     "Node.js.newFunction.js.executor": "Run",
     "Node.js.promise.js.executor": "Run",
@@ -121,7 +122,10 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.setTimeoutsetInterval.js">
+  <component name="RunManager" selected="Node.js.Max.js">
+    <configuration name="Max.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/codewars/Js/Max.js" working-dir="$PROJECT_DIR$/codewars/Js">
+      <method v="2" />
+    </configuration>
     <configuration name="나머지매개변수전개구문.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Modern/함수심화학습/나머지매개변수전개구문.js" working-dir="$PROJECT_DIR$/Modern/함수심화학습">
       <method v="2" />
     </configuration>
@@ -157,6 +161,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Max.js" />
         <item itemvalue="Node.js.setTimeoutsetInterval.js" />
         <item itemvalue="Node.js.newFunction.js" />
         <item itemvalue="Node.js.나머지매개변수전개구문.js" />
@@ -189,7 +194,8 @@
       <workItem from="1707877647298" duration="12633000" />
       <workItem from="1707960074593" duration="15453000" />
       <workItem from="1708048273081" duration="9770000" />
-      <workItem from="1708312034293" duration="4842000" />
+      <workItem from="1708312034293" duration="6222000" />
+      <workItem from="1708420529875" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -279,7 +285,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708322814422</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Todo : codeWars 6kyu">
+      <option name="closed" value="true" />
+      <created>1708324827144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708324827144</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fix : codeWars 6kyu">
+      <option name="closed" value="true" />
+      <created>1708324888166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708324888166</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,6 +328,8 @@
     <MESSAGE value="Todo : 함수심화 1~6" />
     <MESSAGE value="Todo : codewars 6kyu" />
     <MESSAGE value="Todo : 함수심화 7,8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Todo : 함수심화 7,8" />
+    <MESSAGE value="Todo : codeWars 6kyu" />
+    <MESSAGE value="fix : codeWars 6kyu" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix : codeWars 6kyu" />
   </component>
 </project>
