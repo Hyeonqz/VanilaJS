@@ -45,4 +45,54 @@ function handlerMouseLeave() {
 title4.addEventListener("mouseleave", handlerMouseLeave);
 
 
-// TODO : #3.5 부터 보기
+function handleWindowResie() {
+    document.body.style.backgroundColor = "wheat";
+}
+
+window.addEventListener("resize",handleWindowResie);
+window.addEventListener("copy",handleWindowCopy);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
