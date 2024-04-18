@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="delete file">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstJS/app/css/styleApp.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstJS/app/js/browser/EventEx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstJS/youtube/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstJS/youtube/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstJS/youtube/style.css" afterDir="false" />
+    <list default="true" id="df5ce394-7a57-4830-99ef-07e4dba236b5" name="Changes" comment="이벤트 practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstJS/app/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstJS/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstJS/app/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstJS/app/js/browser/documentEx.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstJS/app/js/browser/documentEx.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstJS/youtube/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstJS/youtube/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstJS/youtube/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/FirstJS/youtube/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstJS/youtube/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/FirstJS/youtube/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +33,12 @@
     &quot;assignee&quot;: &quot;Hyeonqz&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="20497353-8c82-4340-920e-3ae15582c863" />
-        <option name="url" value="https://github.com/Hyeonqz/Modern-JS.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Hyeonqz/VanilaJS.git",
+    "accountId": "20497353-8c82-4340-920e-3ae15582c863"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -62,65 +54,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Node.js.Async.js.executor": "Run",
-    "Node.js.Class.js.executor": "Run",
-    "Node.js.Date객체.js.executor": "Run",
-    "Node.js.Deadfish.js.executor": "Run",
-    "Node.js.Isogram.js.executor": "Run",
-    "Node.js.Iterable객체.js.executor": "Run",
-    "Node.js.JSON과메소드.js.executor": "Run",
-    "Node.js.Max.js.executor": "Run",
-    "Node.js.Troll.js.executor": "Run",
-    "Node.js.asyncawait.js.executor": "Run",
-    "Node.js.newFunction.js.executor": "Run",
-    "Node.js.promise.js.executor": "Run",
-    "Node.js.prototype.js.executor": "Run",
-    "Node.js.scope.js.executor": "Run",
-    "Node.js.setTimeoutsetInterval.js.executor": "Run",
-    "Node.js.solution.js.executor": "Run",
-    "Node.js.speread&rest.js.executor": "Run",
-    "Node.js.객체프로퍼티.js.executor": "Run",
-    "Node.js.객체함수기명함수표현식.js.executor": "Run",
-    "Node.js.구조분해할당.js.executor": "Run",
-    "Node.js.나머지매개변수전개구만.js.executor": "Run",
-    "Node.js.논리연산자.js.executor": "Run",
-    "Node.js.맵과셋.js.executor": "Run",
-    "Node.js.문자형.js.executor": "Run",
-    "Node.js.배열.js.executor": "Run",
-    "Node.js.배열과메서드.js.executor": "Run",
-    "Node.js.변수의유효범위와클로저.js.executor": "Run",
-    "Node.js.비구조화(구조분해).js.executor": "Run",
-    "Node.js.삼항연산자.js.executor": "Run",
-    "Node.js.숫자형.js.executor": "Run",
-    "Node.js.원시값의메소드.js.executor": "Run",
-    "Node.js.위크맵과위크셋.js.executor": "Run",
-    "Node.js.재귀와스택.js.executor": "Run",
-    "Node.js.전역객체.js.executor": "Run",
-    "Node.js.햠수파라미터.js.executor": "Run",
-    "Node.js.향상된조건문.js.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/qrbank11/Desktop/dev/modern_js/codewars/Java",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
-    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Node.js.Async.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Class.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Date객체.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Deadfish.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Isogram.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Iterable객체.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.JSON과메소드.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Max.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Troll.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.asyncawait.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.newFunction.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.promise.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.prototype.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.scope.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.setTimeoutsetInterval.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.solution.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.speread&amp;rest.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.객체프로퍼티.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.객체함수기명함수표현식.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.구조분해할당.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.나머지매개변수전개구만.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.논리연산자.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.맵과셋.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.문자형.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.배열.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.배열과메서드.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.변수의유효범위와클로저.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.비구조화(구조분해).js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.삼항연산자.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.숫자형.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.원시값의메소드.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.위크맵과위크셋.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.재귀와스택.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.전역객체.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.햠수파라미터.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.향상된조건문.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/qrbank11/Desktop/dev/modern_js/codewars/Java&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/codewars/Java" />
@@ -196,7 +188,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -233,7 +226,8 @@
       <workItem from="1710294564850" duration="15000" />
       <workItem from="1710294590932" duration="1146000" />
       <workItem from="1712628944858" duration="4796000" />
-      <workItem from="1712888202688" duration="5079000" />
+      <workItem from="1712888202688" duration="5981000" />
+      <workItem from="1713407843029" duration="3338000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -427,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712633999566</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="이벤트 practice">
+      <option name="closed" value="true" />
+      <created>1712898847952</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1712898847952</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,6 +467,7 @@
     <MESSAGE value="[Todo] : codeWars : String ends with" />
     <MESSAGE value="event" />
     <MESSAGE value="delete file" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete file" />
+    <MESSAGE value="이벤트 practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="이벤트 practice" />
   </component>
 </project>

@@ -5,10 +5,16 @@
     <title>Title</title>
 </head>
 <body>
-    <div id="login-form">
-        <input value="" type="text" placeholder="what is your name?" />
-        <button>Log In</button>
-    </div>
+
+    <form id="login-form" class="hidden">
+        <input required maxlength="15" value="" type="text" placeholder="what is your name?" />
+        <input type="submit" value="로그인">
+    </form>
+    <h1 id="greeting" class="hidden"></h1>
+
+
+    <a href="https://www.naver.com">Naver</a>
+    <a href="https://www.google.com">Google</a>
     <script src="login.js"></script>
 </body>
 </html>
