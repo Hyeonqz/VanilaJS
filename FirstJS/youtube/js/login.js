@@ -21,19 +21,33 @@ link.addEventListener("click",handleLinkClick);*/
 
 const HIDDEN_CLASSNAME = "hidden";
 const greeting = document.querySelector("#greeting");
+const USERNAME_KEY = "username";
 
 function onLoginSubmit(info) {
     info.preventDefault(); // 어떠한 이벤트도 발생하지 않도록 막는 것.
     loginForm.classList.add(HIDDEN_CLASSNAME);
     const username = loginInput.value;
-    greeting.innerText=`Hello ${username}`;
-    greeting.classList.remove(HIDDEN_CLASSNAME)
+    localStorage.setItem(USERNAME_KEY, username);
+    paintGreetings(username);
 }
 
-loginForm.addEventListener("submit",onLoginSubmit)
+loginForm.addEventListener("submit", onLoginSubmit)
 
+const savedUserName = localStorage.getItem(USERNAME_KEY);
+console.log(savedUserName);
 
-// TODO #4.5 부터 보기
+if (savedUserName === null) {
+    loginForm.classList.remove(HIDDEN_CLASSNAME);
+    loginForm.addEventListener("submit", onLoginSubmit);
+} else {
+    // show the greetings
+    paintGreetings(savedUserName);
+}
+
+function paintGreetings(username) {
+    greeting.innerText = `Hello ${savedUserName}`;
+    greeting.classList.remove(HIDDEN_CLASSNAME);
+}
 
 
 
