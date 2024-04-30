@@ -1,6 +1,13 @@
 const toDoForm = document.querySelector("#todo-form");
 const toDoList = document.querySelector("#todo-list");
 const toDoInput = toDoForm.querySelector("input");
+const toDos = [];
+
+const TODOS_KEY = "todos";
+
+function saveToDos() {
+    localStorage.setItem(TODOS_KEY,JSON.stringify(toDos)); // webBrowser 로컬 스토리지에 저장하는 것
+}
 
 function deleteTodo(event) {
     const li = event.target.parentElement;
@@ -25,9 +32,58 @@ function handlerToDoSubmit(event) {
     const newTodo = toDoInput.value;
     console.log(toDoInput.value);
     toDoInput.value = "";
+    toDos.push(newTodo);
+
     paintTodo(newTodo);
+    saveToDos();
 }
 
 toDoForm.addEventListener("submit",handlerToDoSubmit);
 
-// TODO : 7.3 보기 https://nomadcoders.co/javascript-for-beginners/lectures/2917
+function sayHello(item) {
+    console.log("this is the turn of : ",item);
+}
+
+const savedTodos = localStorage.getItem(TODOS_KEY);
+console.log(savedTodos)
+// Null 처리
+if(savedTodos !== null) {
+    const parsedToDos = JSON.parse(savedTodos);
+    console.log(parsedToDos);
+    parsedToDos.forEach(sayHello);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
